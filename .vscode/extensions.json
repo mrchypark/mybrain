@@ -13,5 +13,7 @@
 
     // Spell checking for text, markdown and latex
     "ban.spellright",
+
+		"vsls-contrib.gitdoc",
   ]
 }
