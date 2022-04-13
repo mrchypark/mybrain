@@ -15,5 +15,10 @@
     "ban.spellright",
 
 		"vsls-contrib.gitdoc",
+		"bierner.emojisense",
+		"bierner.markdown-emoji",
+		"bierner.markdown-mermaid",
+		"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+		
   ]
 }
